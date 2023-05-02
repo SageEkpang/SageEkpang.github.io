@@ -6,10 +6,21 @@ Professional Development and Games Industry Employability Repository
 ---
 
 ### About Me:
-I am aspiring Game Programmer / Game Developer that wants to go into Graphics Programming as a profession. If you would like to know more about me and what skills have. Feel Free to visit my portfolio Website.
+I am aspiring Game Programmer / Game Developer that wants to go into Graphics Programming as a profession. If you would like to know more about me and what skills have. Feel Free to visit my portfolio Website. As well as Programming and Tech, I have many artist skills that I use to develop my games. A lot of my 2D games were created with my own artist skills due to me wanting to practice art and other assets of game development. These artworks
 
-### Projects:
+---
 
+### Projects (Downloadable):
+#### Tank Turn Up: https://github.com/SageEkpang/TankTurnUp
+#### Marble Madness: https://github.com/SageEkpang/MarbleMadness
+#### CatRush: https://github.com/SageEkpang/CatRush
+
+---
+
+### Game Jam Games:
+#### Global Game Jam: https://github.com/Daniel-D-Neumann/Global-Games-Jam
+
+---
 
 ## List of Skills:
 ### **Technical:**
