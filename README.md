@@ -1,22 +1,20 @@
-
-
-
 # Portfolio Repo
-This repo is to host my portfolio website using the github link.
+#### Portfolio Website: https://sageekpang.github.io/
+Professional Development and Games Industry Employability Repository
+(Host Repository for Portfolio Website)
 
-Using this you have access to:
+---
+
+### About Me:
+I am aspiring Game Programmer / Game Developer that wants to go into Graphics Programming as a profession. If you would like to know more about me and what skills have. Feel Free to visit my portfolio Website.
+
+### Projects:
 
 
-## My portfolio website
-## About Me section
-## Socail Media Links
-## Projects
-## List of Skills
-Carbon (Code Exporter)
+### List of Skills:
 
-- Add a Logo or Banner
-- Add Badges
-- Short Project Description
-- Add Gif demo (Optional)
-- Installation and Usage (Optional if the project can be installed, mine cannot)
-- Additional info, Contribution, License, Donations, etc.
+### **Technical:**
+
+
+### **Artist:**
+
